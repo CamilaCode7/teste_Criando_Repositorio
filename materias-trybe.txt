@@ -5,3 +5,7 @@ O que eu vou aprender na Trybe:
 - Git
 - HTML
 - CSS
+
+    Faça um git add nome-do-arquivo.extensao
+    Agora um git commit -m "Mensagem que você gostaria"
+    e por último um git push -u origin trybe-skills-updates
